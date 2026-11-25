@@ -1,6 +1,6 @@
 # Terraform constraint with `!=` makes Renovate skip the dependency
 
-Discussion: <DISCUSSION-URL>
+Discussion: https://github.com/renovatebot/renovate/discussions/48369
 
 ## Current behavior
 
